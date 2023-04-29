@@ -4,13 +4,13 @@
 /**
  * handle_write_char - Prints a string
  * @c: char types.
- * @buffer: Buffer array to handle print
- * @flags:  Calculates active flags.
- * @width: get width.
- * @precision: precision specifier
- * @size: Size specifier
+ * @buffer: Bandle print
+ * alculates active flags.
+ *@width: get width.
+ * @psion: precision specifier
+ * @size:cifier
  *
- * Return: Number of chars printed.
+ * Return: Number inted.
  */
 int handle_write_char(char c, char buffer[],
 	int flags, int width, int precision, int size)

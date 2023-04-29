@@ -17,9 +17,9 @@ Handle the following custom conversion specifiers:
 3. What one has not experienced, one will never understand in print                 
 Handle the following conversion specifiers:                                         
                                                                                     
-4. Nothing in fine print is ever good news                                          
-Use a local buffer of 1024 chars in order to call write as little as possible.      
-                                                                                    
+ Nothing in fine print is ever good news                                          
+Uslocal buffer of 1024 chars in order to call write as little as possible.      
+                                                                             
 5. My weakness is wearing too much leopard print                                    
 Handle the following custom conversion specifier:                                   
                                                                                     
@@ -38,25 +38,23 @@ h
 Conversion specifiers to handle: d, i, u, o, x, X                                   
                                                                                     
 9. Print some money and give it to us for the rain forests                          
-Handle the field width for non-custom conversion specifiers.                        
-                                                                                    
-10. The negative is the equivalent of the composer's score, and the print the perfor
+Handle the fifor non-custom conversion specifiers.                        
+                                                                                  
+10. The negative is the ee composer's score, and the print the perfor
 mance                                                                               
-Handle the precision for non-custom conversion specifiers.                          
-                                                                                    
-11. It's depressing when you're still around and your albums are out of print       
+Handle the precision for non-custom conv                                                                           
+11. It's  when you're still around and your albums are out of print       
 Handle the 0 flag character for non-custom conversion specifiers.                   
-                                                                                    
-12. Every time that I wanted to give up, if I saw an interesting textile, print what
+                                                                                   
+12. Every time that wanted to give up, if I saw an interesting textile, print what
  ever, suddenly I would see a collection                                            
-Handle the - flag character for non-custom conversion specifiers.                   
+Handle the - flag charm conversion specifiers.                   
                                                                                     
 13. Print is the sharpest and the strongest weapon of our party                     
-Handle the following custom conversion specifier:                                   
+Handle the following custom conversion sp              
                                                                                     
-14. The flood of print has turned reading into a process of gulping rather than savo
-ring                                                                                
+14. The flood of print has turned reading into a process of gulping ra                                                                       
 Handle the following custom conversion specifier:                                   
                                                                                     
 15. *                                                                               
-All the above options work well together. 
+All the above well together. 
